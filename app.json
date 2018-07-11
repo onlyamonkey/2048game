@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "少奶奶的2048小游戏",
+    "enablePullDownRefresh": false ,
+    "disableScroll" :true
+  }
+}
